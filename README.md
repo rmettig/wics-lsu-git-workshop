@@ -6,7 +6,7 @@
      \/  \/ \___/ \____/\____/ \ \__,_\_____/\____/ \___/  
                                 \____/                    
 
-# CLI Git Workshop Fall 2022
+# CLI Git Workshop Spring 2023
 By Raphaela Mettig
 
 ## Attendees
