@@ -11,5 +11,6 @@ By Raphaela Mettig
 
 ## Attendees
 Ethan Raborn
+Catherine Rodriquez
 
 Raphaela Mettig: Firework, Attention, All Too Well
